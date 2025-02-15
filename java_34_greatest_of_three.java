@@ -19,7 +19,7 @@ public class java_34_greatest_of_three {
         }else if (num3 > num1 && num3 > num2){
             System.out.println(num3+" "+"is Greatest");
         }else {
-            System.out.println("All numbers are the same ")
+            System.out.println("All numbers are the same ");
         }
 
 
